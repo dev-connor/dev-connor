@@ -1,5 +1,3 @@
-# Connor
-
 <h3 align="center">:books:Skills</h3>
 
 <div align="center">
@@ -27,4 +25,10 @@
   <img src="https://img.shields.io/badge/-STS-6DB33F?logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL Developer-F80000?logo=oracle&logoColor=">
   <img src="https://img.shields.io/badge/-Android studio-3DDC84?logo=androidstudio&logoColor=white">
+</div>
+
+<h3 align="center">​:notebook_with_decorative_cover:​Blog</h3>
+
+<div align="center">
+  <a href="https://dev-connor.github.io/"><img src="https://img.shields.io/badge/-Blog-222222?logo=github&logoColor="></a> - click me!!
 </div>
