@@ -30,5 +30,5 @@
 <h3 align="center">​:notebook_with_decorative_cover:​Blog</h3>
 
 <div align="center">
-  <a href="https://dev-connor.github.io/"><img src="https://img.shields.io/badge/-Blog-222222?logo=github&logoColor="></a> - click me!!
+  <a href="https://dev-connor.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Blog-222222?logo=github&logoColor="></a> - click me!!
 </div>
