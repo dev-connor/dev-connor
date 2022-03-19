@@ -1,19 +1,22 @@
 <h3 align="center">:books:Skills</h3>
 
+<p align="center">Skillfull</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=">
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Apache tomcat-F8DC75?logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring security-6DB33F?logo=springsecurity&logoColor=white">
   
 </div>
-<br>
 
+<p align="center">Basic level</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=amazonaws&logoColor=">
   <img src="https://img.shields.io/badge/-Firebase-3D03A7?logo=firebase&logoColor=">
-  <img src="https://img.shields.io/badge/-Spring security-6DB33F?logo=springsecurity&logoColor=white">
+
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=">
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white">
 </div>
