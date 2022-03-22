@@ -1,6 +1,6 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/70655507/159471990-9ed7e900-b742-42a6-92d3-54f9483607bc.png" height="100">
-  <br>
-  <b>프로그래머스 레벨 2<b/>
+<p align="center"><img src="https://user-images.githubusercontent.com/70655507/159471990-9ed7e900-b742-42a6-92d3-54f9483607bc.png" height="100"><br>
+  <b>프로그래머스 레벨 2<b/><br>
+  https://programmers.co.kr/job_profiles/public_setting  <br>
 </p>
 
 
