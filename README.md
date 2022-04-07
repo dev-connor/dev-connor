@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/-Forty to dot-000000?logo=42&logoColor=white">
+</div>
+
+<br><br>
+
 <p align="center"><img src="https://user-images.githubusercontent.com/70655507/159471990-9ed7e900-b742-42a6-92d3-54f9483607bc.png" height="100"><br>
   <b>프로그래머스 레벨 2<b/><br>
   https://programmers.co.kr/pr/kimhyunjun576_3520  <br>
