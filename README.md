@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img src="https://img.shields.io/badge/-Forty to dot-000000?logo=42&logoColor=white">
 </div>
+-->
 
 <br><br>
 
