@@ -8,11 +8,6 @@
 <h3 align="center">:books:Skills</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"><br>
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-AWS_Elastic_Beanstalk-64415?logo=iCloud&logoColor=white">
   <img src="https://img.shields.io/badge/-AWS_RDS-0056D2?logo=Microsoft Access&logoColor=">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"> 
