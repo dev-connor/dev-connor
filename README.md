@@ -11,10 +11,10 @@
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=connor)](https://solved.ac/connor)
 -->
-
+/
 <p align="center">
-    <a href="https://kor-connor.notion.site/Connor-da55abec65064cd0a5b340c96617dbfd?pvs=4" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-EA4AAA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
+    <a href="https://devconnor.tistory.com" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
   <a href="mailto:kor.connor@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/kor.connor@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
