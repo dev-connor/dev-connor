@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=connor)](https://solved.ac/connor) 🏅 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=connor)](https://solved.ac/connor) 🍋
 </div>
 
 <div align="center">
