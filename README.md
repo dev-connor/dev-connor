@@ -21,8 +21,3 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=connor)](https://solved.ac/connor) 🍋
 </div>
-
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-connor&count_bg=%235C91B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
